@@ -1,0 +1,16 @@
+
+Função sem parametro 
+
+let saudação = () => {
+	return 'Bem vindo!';
+};
+console.log(saudação);
+
+______________________________________
+
+Função com parametro
+
+let soma = (a, b) => {
+  return a + b;
+};
+console.log(soma(6, 2)); //8
